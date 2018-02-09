@@ -1,0 +1,50 @@
+/** Your theme modifications here **/
+
+
+.item_div{
+	text-decoration: none;
+	font-family: bookman old style;
+	cursor: pointer;
+	color: #555;
+}
+
+.item_div h5 {
+	font-size : 16px !important;
+}
+
+.item_div:hover h5 {
+	color: #BF0F9F;
+}
+
+.item_div:hover {
+	text-decoration: none !important;
+}
+
+.item_div:hover a {
+	text-decoration: none !important;
+}
+
+.form-toggle-body{
+  display: none;
+}
+.form-toggle-head{
+  cursor: pointer;
+}
+.margin-small{
+  height : 10px;
+}
+.margin-medium{
+  height : 20px;
+}
+.margin-large{
+  height : 30px;
+}
+.inline{
+  display: inline-block;
+}
+.products-showing{
+    display: inline-block;
+    margin-left: 10px;
+    color: #878787;
+    font-size: 12px;
+}
